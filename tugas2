@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+main (){
+    int pilihan;
+printf("Program Penghitung\n");
+printf("1. Volume Kubus\n");
+printf("2. Luas Lingkaran\n");
+printf("3. Volume Silinder\n");
+printf("Masukan Pilihan = \n");
+scanf("%d",&pilihan);
+if (pilihan == 1)
+{
+    printf("\panjang sisi kubus");
+    scanf("%d");
+    if ("= s*s*s");
+    printf ("s*s*s\n");
+    printf("volume kubusnya === %f", &"d");
+}
+if (pilihan == 2)
+{
+    printf("\panjang jari-jari lingkaran");
+    scanf("%d");
+    if ("= 3,14*s*s");
+    printf ("3,14*s*s\n");
+    printf("luas lingkaran === %f", &"d");
+}
+if (pilihan == 3)
+{
+    printf("panjang jari-jari lingkaran");
+    scanf("%d");
+    printf("\tinggi silinder");
+    if ("= 3,14*s*s*a");
+    printf("volume silindernya = %f", &"d");
+}
+
+}
+
